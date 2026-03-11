@@ -1,3 +1,13 @@
+button{
+  background-color: rgb(255, 192, 84);
+  color: rgb(0, 0, 0);
+  border-radius: 10px;
+  border: none;
+}
+button:hover{
+  background-color: rgb(17, 74, 55);
+  color: antiquewhite;
+}
 .color-azul{
     color: rgb(106, 106, 250);
 }
