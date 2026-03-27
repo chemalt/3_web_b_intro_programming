@@ -28,7 +28,7 @@ h1{
 .parent{
   display: block;
   margin-left: 10%;
-  background-color: rgb(185, 63, 246);
+  background-color: rgb(245, 224, 255);
   width: 400px;
   height: 300px;
   border: 5px solid rgb(247, 250, 154);
@@ -43,5 +43,6 @@ h1{
   left: 20%;
   bottom: 20%;
   z-index: 2;
+  font-family: "Bitcount Grid Double Ink", system-ui;
 }
 

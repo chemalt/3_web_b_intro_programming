@@ -49,9 +49,9 @@ button:hover{
 }
 .lol {
   position: sticky;
-  
+  width: 100%;
   top: 0;
-
+  
   background-color: #5fffcf;
 
   color: rgb(0, 0, 0);
